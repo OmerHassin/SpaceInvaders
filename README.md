@@ -22,5 +22,5 @@ For this project I built infrastructure that can be used for other future game t
 The infrastructure is built on working with components, managers and interfaces for convenient implementation at the game code.
 
 The game is a responsive Windows Desktop application, focus on building Windows 2D game with sounds, animations and game logic.
-The game is for two or single player with option to expand for more players throw the infrastructure.
+The game is for two or single player with option to expand for more players through the infrastructure.
 
